@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá! Eu sou o Caetano 👋
 
-<!--
-**lMainente/lMainente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou um desenvolvedor Full Stack apaixonado por tecnologias. Tenho experiência em várias linguagens de programação e adoro trabalhar em projetos desafiadores.
 
-Here are some ideas to get you started:
+## Linguagens e Tecnologias
+Aqui estão algumas das linguagens e tecnologias que mais utilizo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lMainente&layout=compact&langs_count=6&theme=radical)](https://github.com/lMainente)
+
+## Contribuições
+![Contribuições](https://github.com/lMainente/lMainente/blob/master/assets/github-contribution-grid-snake.svg)
+
