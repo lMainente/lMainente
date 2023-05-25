@@ -9,5 +9,5 @@ Aqui estão algumas das linguagens e tecnologias que mais utilizo:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lMainente&layout=compact&langs_count=6&theme=radical)](https://github.com/lMainente)
 
 ## Contribuições
-[Contribuições](https://github.com/lMainente/lMainente/blob/master/assets/github-contribution-grid-snake.svg)
+[Contribuições]([https://github.com/lMainente/lMainente/blob/master/assets/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif))
 
