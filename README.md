@@ -4,10 +4,7 @@
   <img src="https://github.com/lMainente/lMainente/raw/main/assets/header.gif" alt="Header" />
 </p>
 
-<!-- Sobre mim -->
-## 👋 Olá! Eu sou [Seu Nome]
-
-Sou um desenvolvedor Full Stack apaixonado por tecnologia e Star Wars. Adoro transformar ideias em código e criar soluções inovadoras. Meu objetivo é contribuir para projetos desafiadores e colaborar com outros desenvolvedores.
+Sou um desenvolvedor Full Stack apaixonado por tecnologia. Adoro transformar ideias em código e criar soluções inovadoras. Meu objetivo é contribuir para projetos desafiadores e colaborar com outros desenvolvedores.
 
 <!-- Linguagens e Tecnologias -->
 ## 💻 Linguagens e Tecnologias
