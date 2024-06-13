@@ -13,8 +13,8 @@
 
 # 💫 Partners:
 [![Github Badge](https://img.shields.io/badge/-@Janainaffalco22-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Janainaffalco22)](https://github.com/Janainaffalco22)
-[![Github Badge](https://img.shields.io/badge/-@lMainente-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/LucasMainente)](https://github.com/LucasMainente)
-[![Github Badge](https://img.shields.io/badge/-@chriaalonso-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/adokaf)](https://github.com/adokaf)
+[![Github Badge](https://img.shields.io/badge/-@LucasMainente-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/LucasMainente)](https://github.com/LucasMainente)
+[![Github Badge](https://img.shields.io/badge/-@Adokaf-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/adokaf)](https://github.com/adokaf)
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
